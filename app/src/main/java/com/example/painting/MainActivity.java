@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
     private DrawingView drawingview;
     private ImageButton current;
     private Button clearbutton;
-    private Button undobutton;
+    //private Button undobutton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
